@@ -1,3 +1,3 @@
 ### CHANGELOG
 
-## [Unreleased]
+## [v1.2.0]
